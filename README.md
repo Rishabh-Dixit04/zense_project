@@ -9,22 +9,18 @@ Monitoring our expenditures during college has consistently posed a challenge du
 2. **Firebase Tools**: Firebase provides backend services, including Firestore for the database.
 3. **Flutter Packages**:
    Dependencies to be added in *pubspec.yaml* file:
-      cupertino_icons: ^1.0.2
-      firebase_auth: ^4.8.0
-      cloud_firestore: ^4.9.0
-      firebase_core: ^2.15.1
-      provider: ^6.0.5
-      flutter_spinkit: ^5.2.0
-      intl: ^0.18.1
-      fl_chart: ^0.63.0
+      cupertino_icons: ^1.0.2,
+      firebase_auth: ^4.8.0,
+      cloud_firestore: ^4.9.0,
+      firebase_core: ^2.15.1,
+      provider: ^6.0.5,
+      flutter_spinkit: ^5.2.0,
+      intl: ^0.18.1,
+      fl_chart: ^0.63.0,
       syncfusion_flutter_gauges: ^22.2.10
 
 4. **Android Studio / Visual Studio Code**:
    These are popular IDEs for Flutter development. You can choose either one based on your preference.
-
-5. **Firebase Project**:
-   Create a project on the Firebase Console (https://console.firebase.google.com/) and set up Firestore and authentication.
-
 6. **Android Emulator**:
    For testing your app, you'll need emulators or simulators to run the app on virtual devices.
 
