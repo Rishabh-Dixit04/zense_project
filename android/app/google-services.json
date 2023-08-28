@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "53308270684",
+    "project_id": "expense-app-53d3d",
+    "storage_bucket": "expense-app-53d3d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53308270684:android:2ba77619695c0892e21e99",
+        "android_client_info": {
+          "package_name": "com.example.zense_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "53308270684-jrla6bvmuo39aftmf7udhfscgvtou1pj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZrG8Tjygby_iVaLVsG8qNx1qzlhpiutw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "53308270684-jrla6bvmuo39aftmf7udhfscgvtou1pj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
